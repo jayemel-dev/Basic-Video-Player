@@ -1,0 +1,11 @@
+{
+  "PlayerSettings": [
+    {
+      "FolderName": "Videos",
+      "FolderPath": "USE_ROOT",
+      "AutoPlayOn": "True",
+      "ShuffleOn": "true",
+      "FullScreen": "True"
+    }
+  ]
+}
